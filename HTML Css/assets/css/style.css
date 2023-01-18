@@ -1,0 +1,108 @@
+/* h1 {
+    color: aqua;
+  }
+
+  h2 {
+    color: red;
+  }
+  #h12 {
+    color: red;
+  }
+  #h13 {
+    color: green;
+  } */
+
+  /* #h1 {
+    color: gray;
+  } */
+
+  /* #h1 {
+    color: gray;
+  }
+
+  h2 {
+    color: red;
+  }
+
+  .learning-heading {
+    color: blue;
+  } */
+
+  /* .learning-heading,
+  .learning-h2 {
+    font-size: 70px;
+  } */
+
+  /* .headings {
+    font-size: 70px;
+  } */
+
+  /* h1,
+  h5 {
+    font-size: 70px;
+  } */
+
+  /* #learning.headings h1,
+  #learning .headings h5 {
+    font-size: 70px;
+  }
+
+  h2.test-2 {
+    font-size: 90px;
+    color: brown;
+  }
+ */
+
+  /* * {
+    font-size: 12px;
+  }
+
+  .p328 {
+    font-size: 24px;
+  }
+
+  .p326 {
+    font-size: 30px;
+  }
+
+  .p328, .p326 {
+    color: red;
+  } */
+
+
+  /* div span {
+    color: red;
+  } */
+
+  div > span {
+    color: red;
+  }
+
+  div + p {
+    color: blue;
+  }
+
+
+  div ~ p {
+    color: cadetblue;
+  }
+
+
+  input[placeholder] {
+    /* color: #b73e28; */
+    color: brown;
+  }
+
+  #learning {
+    background-color: brown;
+  }
+
+  #test {
+    height: 1000px;
+    /* background-color: red; */
+    background-image: url("../images/cats-2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    background-attachment: fixed;
+  }
